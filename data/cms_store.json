@@ -1,0 +1,2076 @@
+{
+  "ad_slots": [
+    {
+      "id": 1,
+      "slot_key": "top_banner_728x90",
+      "title": "اوپری ہیڈر بینر (728x90)",
+      "ad_type": "image",
+      "image_url": "",
+      "target_url": "https://dailyafadiat.com",
+      "code_snippet": "",
+      "is_active": true
+    },
+    {
+      "id": 2,
+      "slot_key": "home_mid_banner",
+      "title": "صفحۂ اول درمیانی بینر (970x90)",
+      "ad_type": "image",
+      "image_url": "",
+      "target_url": "https://dailyafadiat.com",
+      "code_snippet": "",
+      "is_active": true
+    },
+    {
+      "id": 3,
+      "slot_key": "article_sidebar_300x250",
+      "title": "آرٹیکل سائیڈ بار بینر (300x250)",
+      "ad_type": "image",
+      "image_url": "",
+      "target_url": "https://dailyafadiat.com",
+      "code_snippet": "",
+      "is_active": true
+    },
+    {
+      "id": 4,
+      "slot_key": "article_inline_banner",
+      "title": "آرٹیکل کے اندر بینر (728x90)",
+      "ad_type": "image",
+      "image_url": "",
+      "target_url": "https://dailyafadiat.com",
+      "code_snippet": "",
+      "is_active": true
+    },
+    {
+      "id": 5,
+      "slot_key": "footer_banner",
+      "title": "فوٹر کے اوپر بینر (970x90)",
+      "ad_type": "image",
+      "image_url": "",
+      "target_url": "https://dailyafadiat.com",
+      "code_snippet": "",
+      "is_active": false
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "article_id": 1,
+      "author_name": "محمد بلال",
+      "author_email": "bilal@example.com",
+      "content": "بہت ہی شاندار اور تیز رفتار نیوز پورٹل ہے۔ ڈیلی افادیت کی ادارتی ٹیم کو مبارکباد!",
+      "status": "rejected",
+      "created_at": "2026-11-18T18:48:04.040Z"
+    }
+  ],
+  "site_settings": {
+    "social_links": {
+      "youtube": "https://youtube.com/@dailyafadiat",
+      "whatsapp": "https://whatsapp.com/channel/dailyafadiat",
+      "facebook": "https://facebook.com/dailyafadiat",
+      "instagram": "https://instagram.com/dailyafadiat",
+      "twitter": "https://x.com/dailyafadiat",
+      "tiktok": "https://tiktok.com/@dailyafadiat"
+    },
+    "site_info": {
+      "title_ur": "ڈیلی افادیت",
+      "tagline_ur": "سچ کے ساتھ، ہر لمحہ باخبر — TRUST • FACTS • GLOBAL NEWS",
+      "contact_email": "editor@dailyafadiat.com",
+      "contact_phone": "+92 300 1234567"
+    },
+    "smtp_config": {
+      "host": "smtp.gmail.com",
+      "port": 587,
+      "user": "",
+      "pass": "",
+      "from": "ڈیلی افادیت <newsletter@dailyafadiat.com>",
+      "secure": false
+    },
+    "breaking_ticker_enabled": {
+      "enabled": true
+    },
+    "contact_info": {
+      "address_ur": "شاہراہِ قائدین، صدر، کراچی، پاکستان",
+      "address_en": "Shahrah-e-Quaideen, Saddar, Karachi, Pakistan",
+      "phone": "+92 300 1234567",
+      "whatsapp": "+92 300 1234567",
+      "editorial_email": "editor@dailyafadiat.com",
+      "ads_email": "ads@dailyafadiat.com",
+      "timing_ur": "پیر تا ہفتہ: صبح ۹ تا شام ۶ بجے",
+      "timing_en": "Mon to Sat: 9:00 AM to 6:00 PM"
+    }
+  },
+  "newsletter_subscribers": [
+    {
+      "id": 1,
+      "email": "reader@example.com",
+      "is_active": true,
+      "created_at": "2026-11-18T18:48:04.040Z"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "title_ur": "خصوصی ڈاکومنٹری: پاکستان کی معدنی دولت اور عالمی سرمایہ کاری کے نئے مواقع",
+      "title_en": "Special Documentary: Pakistan Mineral Wealth and Novel Global Investment Routes",
+      "summary_ur": "بلوچستان اور شمالی علاقہ جات کے قدرتی وسائل، ریکوڈک منصوبہ اور جدید ٹیکنالوجی سے معاشی کایا پلٹ کا جامع جائزہ۔",
+      "summary_en": "In-depth investigation exploring natural reserves, Reko Diq copper-gold deposits, and national transformation.",
+      "category": "special",
+      "video_url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "duration": "18:45",
+      "views_count": "125K",
+      "cover_image": "https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?w=800&auto=format&fit=crop",
+      "author_name": "تحقیقاتی ڈیسک",
+      "is_featured": true,
+      "is_active": true,
+      "created_at": "2026-11-17T10:05:00.234Z",
+      "author_en": "Investigative Bureau",
+      "content_ur": "بلوچستان اور شمالی علاقہ جات کے قدرتی وسائل، ریکوڈک منصوبہ اور جدید ٹیکنالوجی سے معاشی کایا پلٹ کا جامع جائزہ۔ اس خصوصی نشریات میں تمام بنیادی حقائق، سرکاری دستاویزات اور ماہرین کے بیانات کا تفصیلی احاطہ کیا گیا ہے۔",
+      "content_en": "In-depth investigation exploring natural reserves, Reko Diq copper-gold deposits, and national transformation. This special broadcast delivers comprehensive coverage incorporating field dispatches, official documents, and expert technical assessments."
+    },
+    {
+      "id": 2,
+      "title_ur": "ڈیلی افادیت 9 PM بلیٹن: قومی معیشت میں استحکام اور نئے ترقیاتی منصوبوں کی منظوری",
+      "title_en": "Daily Afadiat 9 PM Bulletin: Economic Stabilization and Major Infrastructure Approvals",
+      "summary_ur": "ملک بھر کے تمام اہم واقعات کا لمحہ بہ لمحہ احوال اور مستند تجزیہ۔",
+      "summary_en": "Nightly comprehensive broadcast covering fiscal metrics, cabinet decisions, and regional developments.",
+      "category": "bulletin",
+      "video_url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "duration": "34:20",
+      "views_count": "88K",
+      "cover_image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=600&auto=format&fit=crop",
+      "author_name": "نیوز روم",
+      "is_featured": false,
+      "is_active": true,
+      "created_at": "2026-11-18T10:05:00.235Z",
+      "author_en": "Newsroom Desk",
+      "content_ur": "ملک بھر کے تمام اہم واقعات کا لمحہ بہ لمحہ احوال اور مستند تجزیہ۔ اس خصوصی نشریات میں تمام بنیادی حقائق، سرکاری دستاویزات اور ماہرین کے بیانات کا تفصیلی احاطہ کیا گیا ہے۔",
+      "content_en": "Nightly comprehensive broadcast covering fiscal metrics, cabinet decisions, and regional developments. This special broadcast delivers comprehensive coverage incorporating field dispatches, official documents, and expert technical assessments."
+    },
+    {
+      "id": 3,
+      "title_ur": "معاشی تجزیہ: اسٹاک ایکسچینج میں ریکارڈ تیزی، روپے کی قدر اور آئندہ مالیاتی پالیسی",
+      "title_en": "Market Outlook: KSE-100 Historic Highs, Rupee Stability, and Upcoming Monetary Policy",
+      "summary_ur": "معاشی ماہرین اور فنانشل تجزیہ کاروں کے ساتھ خصوصی تبادلہ خیال۔",
+      "summary_en": "Dialogue with seasoned market strategists regarding interest rate trajectory and foreign inflows.",
+      "category": "economy",
+      "video_url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "duration": "14:10",
+      "views_count": "42K",
+      "cover_image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&auto=format&fit=crop",
+      "author_name": "بزنس ڈیسک",
+      "is_featured": false,
+      "is_active": true,
+      "created_at": "2026-11-16T10:05:00.235Z",
+      "author_en": "Business Desk",
+      "content_ur": "معاشی ماہرین اور فنانشل تجزیہ کاروں کے ساتھ خصوصی تبادلہ خیال۔ اس خصوصی نشریات میں تمام بنیادی حقائق، سرکاری دستاویزات اور ماہرین کے بیانات کا تفصیلی احاطہ کیا گیا ہے۔",
+      "content_en": "Dialogue with seasoned market strategists regarding interest rate trajectory and foreign inflows. This special broadcast delivers comprehensive coverage incorporating field dispatches, official documents, and expert technical assessments."
+    },
+    {
+      "id": 4,
+      "title_ur": "کرکٹ فیور: دورۂ پاکستان کے دوران کھلاڑیوں کی ٹریننگ اور کیمپ سے خصوصی رپورٹ",
+      "title_en": "Cricket Fever: Exclusive Practice Session Coverage and Head Coach Press Conference",
+      "summary_ur": "قومی ٹیم کی حکمت عملی اور شائقینِ کرکٹ کے پرجوش تاثرات۔",
+      "summary_en": "Inside training camp footage and fan interviews ahead of the decisive clash.",
+      "category": "sports",
+      "video_url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "duration": "08:35",
+      "views_count": "210K",
+      "cover_image": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=600&auto=format&fit=crop",
+      "author_name": "اسپورٹس ڈیسک",
+      "is_featured": false,
+      "is_active": true,
+      "created_at": "2026-11-15T10:05:00.235Z",
+      "author_en": "Sports Bureau",
+      "content_ur": "قومی ٹیم کی حکمت عملی اور شائقینِ کرکٹ کے پرجوش تاثرات۔ اس خصوصی نشریات میں تمام بنیادی حقائق، سرکاری دستاویزات اور ماہرین کے بیانات کا تفصیلی احاطہ کیا گیا ہے۔",
+      "content_en": "Inside training camp footage and fan interviews ahead of the decisive clash. This special broadcast delivers comprehensive coverage incorporating field dispatches, official documents, and expert technical assessments."
+    }
+  ],
+  "epaper_editions": [
+    {
+      "id": 1,
+      "edition_date": "2026-11-19",
+      "city_slug": "islamabad",
+      "city_name_ur": "اسلام آباد / راولپنڈی",
+      "city_name_en": "Islamabad / Rawalpindi",
+      "page_number": 1,
+      "page_title_ur": "صفحۂ اول (اہم سرخیاں)",
+      "page_title_en": "Front Page",
+      "page_image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=1200&auto=format&fit=crop",
+      "pdf_url": "",
+      "is_active": true,
+      "created_at": "2026-11-19T10:05:00.235Z",
+      "stories": [
+        {
+          "id": "s1",
+          "position": "lead",
+          "headline_ur": "ڈیلی افادیت ڈیجیٹل اور پرنٹ ایڈیشن کا شاندار آغاز: سچائی اور فوری باخبر رہنے کا نیا عہد",
+          "headline_en": "Daily Afadiat Digital & Print Edition Historic Launch: A New Era of Integrity and Speed",
+          "excerpt_ur": "جدید ترین پرنٹنگ ٹیکنالوجی اور ڈیجیٹل سروسز کے ساتھ ملکی صحافت میں ایک نئے باب کا اضافہ۔",
+          "excerpt_en": "Marking a transformative milestone in Pakistani journalism with state-of-the-art broadsheet printing and digital accessibility.",
+          "content_ur": "اسلام آباد (خصوصی نامہ نگار) روزنامہ افادیت نے جدید ترین پرنٹنگ ٹیکنالوجی اور ڈیجیٹل سروسز کے ساتھ ملکی صحافت میں ایک نئے باب کا اضافہ کر دیا ہے۔ ادارتی بورڈ کا کہنا ہے کہ ہمارا مقصد قاری تک بلاخوف و خطر اور تصدیق شدہ اطلاعات پہنچانا ہے۔ ملک بھر کے تمام بڑے شہروں میں آج سے باقاعدہ ترسیل جاری ہے۔",
+          "content_en": "Islamabad (Special Correspondent) Daily Afadiat has inaugurated its multi-edition print publication and digital broadsheet ecosystem today. The editorial governing board reiterated its core pledge to deliver uncompromising, rigorously verified, and fact-checked news to citizens across the federation.",
+          "byline_ur": "اسلام آباد (خصوصی نامہ نگار)",
+          "byline_en": "Islamabad (Special Correspondent)",
+          "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=1200&auto=format&fit=crop"
+        },
+        {
+          "id": "s2",
+          "position": "secondary_top",
+          "headline_ur": "اسٹیٹ بینک کی مانیٹری پالیسی کا اعلان، شرح سود میں استحکام برقرار",
+          "headline_en": "State Bank of Pakistan Announces Monetary Policy, Retaining Benchmark Rates",
+          "excerpt_ur": "مرکزی بینک نے ملکی معاشی استحکام اور زرمبادلہ ذخائر میں بہتری کے پیش نظر نئی ہدایات جاری کر دیں۔",
+          "excerpt_en": "Central bank highlights fiscal stabilization, export expansion, and foreign reserve resilience.",
+          "content_ur": "کراچی (بزنس رپورٹر) اسٹیٹ بینک آف پاکستان نے اپنی تازہ مانیٹری پالیسی کا اعلان کرتے ہوئے شرح سود میں استحکام برقرار رکھنے کی توثیق کی ہے۔ مرکزی بینک کے مطابق برآمدات میں بتدریج اضافہ اور زرمبادلہ کے ذخائر میں بہتری خوش آئند اشارے ہیں۔",
+          "content_en": "Karachi (Business Desk) The State Bank of Pakistan announced its latest benchmark policy stance today, affirming stability in discount rates. Governor noted consistent improvements in foreign remittances, trade balance adjustments, and inflation deceleration.",
+          "byline_ur": "کراچی (بزنس رپورٹر)",
+          "byline_en": "Karachi (Business Desk)",
+          "image_url": ""
+        },
+        {
+          "id": "s3",
+          "position": "secondary_bottom",
+          "headline_ur": "ملک بھر میں موسم سرما کی بارشیں اور پہاڑوں پر برفباری کی نئی لہر",
+          "headline_en": "Winter Weather Alert: Widespread Rain Across Plains and Snowfall Over Northern Peaks",
+          "excerpt_ur": "محکمہ موسمیات نے سردی کی نئی لہر کی پیش گوئی کر دی، سیاحوں کا شمالی علاقوں میں رش۔",
+          "excerpt_en": "Meteorological Department issues advisories as cold spell intensifies across the country.",
+          "content_ur": "مری، گلگت بلتستان اور وادی نیلم میں برفباری کا سلسلہ شروع ہو گیا ہے جس کے بعد سردی کی شدت میں غیر معمولی اضافہ ریکارڈ کیا گیا ہے۔ محکمہ موسمیات کے مطابق مغربی ہواؤں کا نیا سلسلہ مزید تین روز تک برقرار رہنے کا امکان ہے۔",
+          "content_en": "Murree, Gilgit-Baltistan, and Neelum Valley experienced fresh winter snowfall today. Weather authorities anticipate the active westerly wave to persist over northern mountain ridges through the weekend.",
+          "byline_ur": "موسمی ڈیسک",
+          "byline_en": "Weather Desk",
+          "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&auto=format&fit=crop"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "edition_date": "2026-11-19",
+      "city_slug": "islamabad",
+      "city_name_ur": "اسلام آباد / راولپنڈی",
+      "city_name_en": "Islamabad / Rawalpindi",
+      "page_number": 2,
+      "page_title_ur": "قومی و علاقائی خبریں",
+      "page_title_en": "National News",
+      "page_image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&auto=format&fit=crop",
+      "pdf_url": "",
+      "is_active": true,
+      "created_at": "2026-11-19T10:05:00.235Z"
+    },
+    {
+      "id": 3,
+      "edition_date": "2026-11-19",
+      "city_slug": "islamabad",
+      "city_name_ur": "اسلام آباد / راولپنڈی",
+      "city_name_en": "Islamabad / Rawalpindi",
+      "page_number": 3,
+      "page_title_ur": "اداریہ، کالم و تجارت",
+      "page_title_en": "Editorial & Business",
+      "page_image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1200&auto=format&fit=crop",
+      "pdf_url": "",
+      "is_active": true,
+      "created_at": "2026-11-19T10:05:00.235Z"
+    },
+    {
+      "id": 4,
+      "edition_date": "2026-11-19",
+      "city_slug": "islamabad",
+      "city_name_ur": "اسلام آباد / راولپنڈی",
+      "city_name_en": "Islamabad / Rawalpindi",
+      "page_number": 4,
+      "page_title_ur": "بین الاقوامی و کھیل",
+      "page_title_en": "World & Sports",
+      "page_image": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=1200&auto=format&fit=crop",
+      "pdf_url": "",
+      "is_active": true,
+      "created_at": "2026-11-19T10:05:00.235Z"
+    }
+  ],
+  "pages": [
+    {
+      "id": 1,
+      "slug": "about-us",
+      "title_ur": "ہمارے بارے میں",
+      "title_en": "About Daily Afadiat",
+      "summary_ur": "ڈیلی افادیت پاکستان کا معتبر، غیر جانبدار اور تیز رفتار ڈیجیٹل و پرنٹ نیوز نیٹ ورک ہے۔",
+      "summary_en": "Daily Afadiat is Pakistan's premier authentic, non-partisan digital and broadsheet news media network.",
+      "content_ur": "<p>روزنامہ افادیت (Daily Afadiat) پاکستان کے صحافتی افق پر سچائی، دیانت داری اور عوامی فلاح کا علمبردار ہے۔ ہمارا مقصد قارئین کو بروقت، مصدقہ اور غیر جانبدارانہ خبریں فراہم کرنا ہے۔</p>\n<h3>ہمارا مشن</h3>\n<p>ہم پاکستان اور دنیا بھر کے تازہ ترین حالات و واقعات، اقتصادی تجزیات، کھیل، سائنس اور ٹیکنالوجی کی خبریں بغیر کسی سنسنی خیزی کے پیش کرتے ہیں۔ صحافتی اقدار کی پاسداری اور عوامی اعتماد ہمارا بنیادی سرمایہ ہے۔</p>\n<h3>ہماری تحقیقاتی ٹیم</h3>\n<p>ملک بھر میں ہمارے سینئر صحافیوں، فیلڈ رپورٹرز اور محققین کا وسیع نیٹ ورک ہر لمحہ متحرک رہتا ہے تاکہ آپ تک مستند خبریں سب سے پہلے پہنچ سکیں۔</p>",
+      "content_en": "<p>Daily Afadiat is a prominent Pakistani digital news organization and broadsheet newspaper committed to truth, journalistic integrity, and civic empowerment.</p>\n<h3>Our Editorial Mission</h3>\n<p>We deliver timely, verified, and objective coverage spanning national politics, global diplomacy, business economics, scientific breakthroughs, sports, and cultural affairs without sensationalism.</p>\n<h3>Our Investigative Network</h3>\n<p>With bureau correspondents across major metropolitan hubs and regional districts, our newsroom provides rigorous fact-checking and deep analytical reporting.</p>",
+      "is_published": true,
+      "created_at": "2026-11-19T10:05:00.235Z",
+      "updated_at": "2026-11-19T10:05:00.235Z"
+    },
+    {
+      "id": 2,
+      "slug": "editorial-policy",
+      "title_ur": "ادارتی پالیسی اور صحافتی ضابطۂ اخلاق",
+      "title_en": "Editorial Policy & Code of Ethics",
+      "summary_ur": "ڈیلی افادیت کی ادارتی آزادی، حقائق کی جانچ پڑتال اور رپورٹنگ کے رہنما اصول۔",
+      "summary_en": "Core journalistic principles, rigorous verification criteria, and conflict of interest standards.",
+      "content_ur": "<p>ڈیلی افادیت کے تمام صحافی اور کالم نگار عالمی معیار کے صحافتی ضابطۂ اخلاق کے پابند ہیں۔</p>\n<ul>\n<li><strong>حقائق کی تصدیق:</strong> کسی بھی خبر کی اشاعت سے قبل کم از کم دو آزاد ذرائع سے تصدیق کی جاتی ہے۔</li>\n<li><strong>غیر جانبداری:</strong> خبروں میں ذاتی رائے یا سیاسی وابستگی سے مکمل گریز کیا جاتا ہے۔ رائے اور اداریہ کے لیے الگ حصے مختص ہیں۔</li>\n<li><strong>تصحیح اور شفافیت:</strong> اگر کسی رپورٹ میں سہواً غلطی ہو جائے تو شفافیت کے ساتھ فوری تصحیح جاری کی جاتی ہے۔</li>\n</ul>",
+      "content_en": "<p>All journalists, editors, and contributors at Daily Afadiat adhere strictly to internationally recognized journalistic ethics.</p>\n<ul>\n<li><strong>Dual Verification:</strong> Sensitive news events require independent verification from at least two reputable sources before dissemination.</li>\n<li><strong>Impartiality:</strong> News coverage remains strictly separate from editorial opinion and commentary.</li>\n<li><strong>Corrections Policy:</strong> We uphold transparent accountability; factual inaccuracies are corrected promptly and conspicuously.</li>\n</ul>",
+      "is_published": true,
+      "created_at": "2026-11-19T10:05:00.235Z",
+      "updated_at": "2026-11-19T10:05:00.235Z"
+    },
+    {
+      "id": 3,
+      "slug": "privacy-policy",
+      "title_ur": "پرائیویسی پالیسی",
+      "title_en": "Privacy Policy",
+      "summary_ur": "قارئین کے ذاتی ڈیٹا کے تحفظ، کوکیز اور معلومات کے استعمال سے متعلق ہماری پالیسی۔",
+      "summary_en": "Information collection standards, cookies policy, and reader privacy protection frameworks.",
+      "content_ur": "<p>ڈیلی افادیت اپنے تمام قارئین کی پرائیویسی کا احترام کرتا ہے۔ ہم آپ کی ذاتی معلومات کو کسی بھی تیسرے فریق کے ساتھ فروخت یا شیئر نہیں کرتے۔</p>\n<p>ہماری ویب سائٹ بہتر کارکردگی اور اینالیٹکس کے لیے کوکیز کا محدود استعمال کرتی ہے تاکہ قارئین کو معیاری تجربہ فراہم کیا جا سکے۔</p>",
+      "content_en": "<p>Daily Afadiat respects and protects reader privacy. We never sell, lease, or distribute personal information to third parties.</p>\n<p>We use standard analytics and functional cookies strictly to enhance reading speed, user experience, and delivery of targeted breaking notifications.</p>",
+      "is_published": true,
+      "created_at": "2026-11-19T10:05:00.235Z",
+      "updated_at": "2026-11-19T10:05:00.235Z"
+    }
+  ],
+  "daily_poll": {
+    "id": 1,
+    "question_ur": "کیا حالیہ معاشی و مالیاتی اصلاحات سے ملک میں مہنگائی میں کمی اور عوام کو حقیقی ریلیف ملے گا؟",
+    "question_en": "Do you believe current macroeconomic reforms will provide genuine relief from inflation to the public?",
+    "options": [
+      {
+        "id": "opt_1",
+        "label_ur": "ہاں، بہتری آئے گی",
+        "label_en": "Yes, definitely",
+        "votes": 384
+      },
+      {
+        "id": "opt_2",
+        "label_ur": "نہیں، ریلیف نہیں ملے گا",
+        "label_en": "No, unlikely",
+        "votes": 142
+      },
+      {
+        "id": "opt_3",
+        "label_ur": "کہہ نہیں سکتے / قبل از وقت",
+        "label_en": "Undecided / Too early",
+        "votes": 48
+      }
+    ],
+    "total_votes": 574,
+    "status": "open",
+    "is_active": true,
+    "target_stories": [],
+    "created_at": "2026-11-19T20:50:20.643Z",
+    "updated_at": "2026-11-20T02:50:45.723Z"
+  },
+  "polls": [
+    {
+      "id": 1,
+      "question_ur": "کیا حالیہ معاشی و مالیاتی اصلاحات سے ملک میں مہنگائی میں کمی اور عوام کو حقیقی ریلیف ملے گا؟",
+      "question_en": "Do you believe current macroeconomic reforms will provide genuine relief from inflation to the public?",
+      "options": [
+        {
+          "id": "opt_1",
+          "label_ur": "ہاں، بہتری آئے گی",
+          "label_en": "Yes, definitely",
+          "votes": 384
+        },
+        {
+          "id": "opt_2",
+          "label_ur": "نہیں، ریلیف نہیں ملے گا",
+          "label_en": "No, unlikely",
+          "votes": 142
+        },
+        {
+          "id": "opt_3",
+          "label_ur": "کہہ نہیں سکتے / قبل از وقت",
+          "label_en": "Undecided / Too early",
+          "votes": 48
+        }
+      ],
+      "total_votes": 574,
+      "status": "open",
+      "is_active": true,
+      "target_stories": [],
+      "created_at": "2026-11-19T20:50:20.643Z",
+      "updated_at": "2026-11-20T02:50:45.723Z"
+    },
+    {
+      "id": 2,
+      "question_ur": "کیا مصنوعی ذہانت (AI) کا صحافت میں بڑھتا ہوا استعمال خبروں کی ساکھ کو متاثر کرے گا؟",
+      "question_en": "Will the increasing adoption of AI in newsrooms impact editorial credibility?",
+      "options": [
+        {
+          "id": "opt_1",
+          "label_ur": "ہاں، ساکھ متاثر ہو سکتی ہے",
+          "label_en": "Yes, credibility risk",
+          "votes": 215
+        },
+        {
+          "id": "opt_2",
+          "label_ur": "نہیں، تحقیق اور تصدیق تیز ہوگی",
+          "label_en": "No, aids verification",
+          "votes": 180
+        },
+        {
+          "id": "opt_3",
+          "label_ur": "مدیران کی اخلاقی نگرانی پر منحصر ہے",
+          "label_en": "Depends on editorial oversight",
+          "votes": 95
+        }
+      ],
+      "total_votes": 490,
+      "status": "closed",
+      "is_active": false,
+      "target_stories": [],
+      "created_at": "2026-11-17T02:50:20.643Z"
+    }
+  ],
+  "ad_slots_v2": [
+    {
+      "id": 1,
+      "slot_key": "footer-strip",
+      "name": "Footer · strip (all pages)",
+      "sizes": "728x90, 320x50",
+      "pages": [
+        "all"
+      ],
+      "is_active": true
+    },
+    {
+      "id": 2,
+      "slot_key": "home-leaderboard",
+      "name": "Home leaderboard",
+      "sizes": "728x90, 320x50",
+      "pages": [
+        "home"
+      ],
+      "is_active": true
+    },
+    {
+      "id": 3,
+      "slot_key": "home-infeed-1",
+      "name": "Home · in-feed #1",
+      "sizes": "728x90, 300x250",
+      "pages": [
+        "home"
+      ],
+      "is_active": true
+    },
+    {
+      "id": 4,
+      "slot_key": "home-infeed-2",
+      "name": "Home · in-feed #2",
+      "sizes": "728x90, 300x250",
+      "pages": [
+        "home"
+      ],
+      "is_active": true
+    },
+    {
+      "id": 5,
+      "slot_key": "home-mpu",
+      "name": "Home MPU",
+      "sizes": "300x250",
+      "pages": [
+        "home"
+      ],
+      "is_active": true
+    },
+    {
+      "id": 6,
+      "slot_key": "home-sidebar",
+      "name": "Home · sidebar",
+      "sizes": "300x600, 300x250",
+      "pages": [
+        "home"
+      ],
+      "is_active": true
+    },
+    {
+      "id": 7,
+      "slot_key": "section-leaderboard",
+      "name": "Section · leaderboard (top)",
+      "sizes": "728x90, 320x50",
+      "pages": [
+        "section"
+      ],
+      "is_active": true
+    },
+    {
+      "id": 8,
+      "slot_key": "section-infeed",
+      "name": "Section · in-feed",
+      "sizes": "728x90, 300x250",
+      "pages": [
+        "section"
+      ],
+      "is_active": true
+    },
+    {
+      "id": 9,
+      "slot_key": "section-sidebar",
+      "name": "Section · sidebar",
+      "sizes": "300x600, 300x250",
+      "pages": [
+        "section"
+      ],
+      "is_active": true
+    },
+    {
+      "id": 10,
+      "slot_key": "article-mpu",
+      "name": "Article MPU",
+      "sizes": "300x250",
+      "pages": [
+        "story",
+        "article"
+      ],
+      "is_active": true
+    },
+    {
+      "id": 11,
+      "slot_key": "story-inline",
+      "name": "Story · inline (in-body)",
+      "sizes": "728x90, 300x250",
+      "pages": [
+        "story",
+        "article"
+      ],
+      "is_active": true
+    },
+    {
+      "id": 12,
+      "slot_key": "story-mpu",
+      "name": "Story · MPU (sidebar / in-body)",
+      "sizes": "300x250, 300x600",
+      "pages": [
+        "story",
+        "article"
+      ],
+      "is_active": true
+    }
+  ],
+  "ad_creatives": [
+    {
+      "id": 101,
+      "slot_key": "footer-strip",
+      "name": "AD: Meezan Bank — Apna Ghar — Footer · strip (all pages)",
+      "type": "direct",
+      "runs_on": "both",
+      "weight": 1,
+      "image_url": "https://pub-afe682c6e960401f9f06ea1705e8db77.r2.dev/author_signature_final_1795194374699.svg",
+      "image_alt": "میزان بینک اپنا گھر آسان ہوم فنانسنگ اسکیم",
+      "click_url": "https://www.meezanbank.com",
+      "status": "pause",
+      "impressions": 412,
+      "clicks": 14,
+      "created_at": "2026-11-18T03:18:01.057Z",
+      "target": "creative",
+      "creative_id": 101,
+      "page_type": "all",
+      "html_code": "",
+      "starts_at": "",
+      "ends_at": "",
+      "is_active": true,
+      "updated_at": "2026-11-20T17:07:11.191Z"
+    },
+    {
+      "id": 102,
+      "slot_key": "home-leaderboard",
+      "name": "State Life Insurance — Digital Health Takaful",
+      "type": "direct",
+      "runs_on": "ur",
+      "weight": 2,
+      "image_url": "",
+      "image_alt": "اسٹیٹ لائف انشورنس ڈیجیٹل ہیلتھ تکافل پلان",
+      "click_url": "https://statelife.com.pk",
+      "status": "run",
+      "impressions": 680,
+      "clicks": 22,
+      "created_at": "2026-11-17T03:18:01.057Z",
+      "target": "creative",
+      "creative_id": 102,
+      "updated_at": "2026-11-20T03:19:08.865Z"
+    },
+    {
+      "id": 103,
+      "slot_key": "home-infeed-1",
+      "name": "HBL Mobile App — Digital Banking Freedom",
+      "type": "direct",
+      "runs_on": "both",
+      "weight": 1,
+      "image_url": "",
+      "image_alt": "ایچ بی ایل موبائل ایپ آسان بینکاری",
+      "click_url": "https://hbl.com",
+      "status": "run",
+      "impressions": 530,
+      "clicks": 17,
+      "created_at": "2026-11-19T03:18:01.057Z"
+    },
+    {
+      "id": 104,
+      "slot_key": "home-infeed-2",
+      "name": "National Bank of Pakistan — Kamyab Jawan Financing",
+      "type": "direct",
+      "runs_on": "ur",
+      "weight": 1,
+      "image_url": "",
+      "image_alt": "نیشنل بینک آف پاکستان کامیاب نوجوان اسکیم",
+      "click_url": "https://nbp.com.pk",
+      "status": "run",
+      "impressions": 310,
+      "clicks": 8,
+      "created_at": "2026-11-16T03:18:01.057Z"
+    },
+    {
+      "id": 105,
+      "slot_key": "home-mpu",
+      "name": "PTCL Flash Fiber — Ultra High Speed Internet",
+      "type": "direct",
+      "runs_on": "both",
+      "weight": 1,
+      "image_url": "",
+      "image_alt": "پی ٹی سی ایل فلیش فائبر تیز رفتار انٹرنیٹ",
+      "click_url": "https://ptcl.com.pk",
+      "status": "run",
+      "impressions": 275,
+      "clicks": 11,
+      "created_at": "2026-11-15T03:18:01.057Z"
+    },
+    {
+      "id": 106,
+      "slot_key": "home-sidebar",
+      "name": "Afadiat Digital Edition — Mobile App Subscription",
+      "type": "house",
+      "runs_on": "both",
+      "weight": 1,
+      "image_url": "",
+      "image_alt": "ڈیلی افادیت ڈیجیٹل موبائل ایپ ابھی ڈاؤنلوڈ کریں",
+      "click_url": "https://dailyafadiat.com/apps",
+      "status": "run",
+      "impressions": 190,
+      "clicks": 6,
+      "created_at": "2026-11-14T03:18:01.057Z"
+    },
+    {
+      "id": 107,
+      "slot_key": "section-leaderboard",
+      "name": "Pak Suzuki — Hybrid Sedan Special Financing Offer",
+      "type": "direct",
+      "runs_on": "en",
+      "weight": 1,
+      "image_url": "",
+      "image_alt": "Pak Suzuki Hybrid Sedan Financing Scheme",
+      "click_url": "https://suzukipakistan.com",
+      "status": "run",
+      "impressions": 240,
+      "clicks": 7,
+      "created_at": "2026-11-18T03:18:01.057Z"
+    },
+    {
+      "id": 108,
+      "slot_key": "section-infeed",
+      "name": "Jazz Super 4G — Corporate Data Packages",
+      "type": "direct",
+      "runs_on": "both",
+      "weight": 1,
+      "image_url": "",
+      "image_alt": "جاز سپر فور جی کارپوریٹ ڈیٹا پیکجز",
+      "click_url": "https://jazz.com.pk",
+      "status": "run",
+      "impressions": 185,
+      "clicks": 5,
+      "created_at": "2026-11-17T03:18:01.057Z"
+    },
+    {
+      "id": 109,
+      "slot_key": "article-mpu",
+      "name": "article-mpu-house",
+      "type": "house",
+      "runs_on": "both",
+      "weight": 1,
+      "image_url": "",
+      "image_alt": "اشتہار دینے کے لیے رابطہ کریں — 0300-1234567",
+      "click_url": "https://dailyafadiat.com/advertise",
+      "status": "pause",
+      "impressions": 345,
+      "clicks": 12,
+      "created_at": "2026-11-13T03:18:01.057Z",
+      "target": "creative",
+      "creative_id": 109,
+      "updated_at": "2026-11-20T17:01:38.662Z"
+    },
+    {
+      "id": 110,
+      "slot_key": "story-inline",
+      "name": "Faysal Bank — Noor Islamic Digital Cards",
+      "type": "direct",
+      "runs_on": "both",
+      "weight": 1,
+      "image_url": "",
+      "image_alt": "فیصل بینک نور اسلامک ڈیجیٹل کارڈز",
+      "click_url": "https://faysalbank.com",
+      "status": "run",
+      "impressions": 290,
+      "clicks": 9,
+      "created_at": "2026-11-18T03:18:01.057Z"
+    },
+    {
+      "id": 111,
+      "slot_key": "story-mpu",
+      "name": "Ufone 4G — Super Card Gold Subscription",
+      "type": "direct",
+      "runs_on": "both",
+      "weight": 1,
+      "image_url": "",
+      "image_alt": "یو فون سپر کارڈ گولڈ سبسکربشن",
+      "click_url": "https://ufone.com",
+      "status": "run",
+      "impressions": 210,
+      "clicks": 6,
+      "created_at": "2026-11-16T03:18:01.057Z"
+    }
+  ],
+  "categories_v2": [
+    {
+      "id": 1,
+      "name_en": "Pakistan",
+      "name_ur": "پاکستان",
+      "slug": "pakistan",
+      "url_path": "/pakistan",
+      "parent_id": null,
+      "articles_count": 65,
+      "show_in_header": true,
+      "show_in_mobile": true,
+      "show_in_footer": true,
+      "is_active": true,
+      "sort_order": 1,
+      "layout": "Grid"
+    },
+    {
+      "id": 2,
+      "name_en": "Punjab",
+      "name_ur": "پنجاب",
+      "slug": "punjab",
+      "url_path": "/pakistan/punjab",
+      "parent_id": 1,
+      "parent_name_en": "Pakistan",
+      "articles_count": 172,
+      "show_in_header": true,
+      "show_in_mobile": true,
+      "show_in_footer": false,
+      "is_active": true,
+      "sort_order": 2,
+      "layout": "Grid"
+    },
+    {
+      "id": 3,
+      "name_en": "Sindh",
+      "name_ur": "سندھ",
+      "slug": "sindh",
+      "url_path": "/pakistan/sindh",
+      "parent_id": 1,
+      "parent_name_en": "Pakistan",
+      "articles_count": 12,
+      "show_in_header": true,
+      "show_in_mobile": true,
+      "show_in_footer": false,
+      "is_active": true,
+      "sort_order": 3,
+      "layout": "Grid"
+    },
+    {
+      "id": 4,
+      "name_en": "Islamabad",
+      "name_ur": "اسلام آباد",
+      "slug": "islamabad",
+      "url_path": "/pakistan/islamabad",
+      "parent_id": 1,
+      "parent_name_en": "Pakistan",
+      "articles_count": 17,
+      "show_in_header": true,
+      "show_in_mobile": true,
+      "show_in_footer": false,
+      "is_active": true,
+      "sort_order": 4,
+      "layout": "Grid"
+    },
+    {
+      "id": 5,
+      "name_en": "Khyber Pakhtunkhwa",
+      "name_ur": "خیبر پختونخوا",
+      "slug": "kpk",
+      "url_path": "/pakistan/kpk",
+      "parent_id": 1,
+      "parent_name_en": "Pakistan",
+      "articles_count": 12,
+      "show_in_header": true,
+      "show_in_mobile": true,
+      "show_in_footer": false,
+      "is_active": true,
+      "sort_order": 5,
+      "layout": "Grid"
+    },
+    {
+      "id": 6,
+      "name_en": "Balochistan",
+      "name_ur": "بلوچستان",
+      "slug": "balochistan",
+      "url_path": "/pakistan/balochistan",
+      "parent_id": 1,
+      "parent_name_en": "Pakistan",
+      "articles_count": 10,
+      "show_in_header": true,
+      "show_in_mobile": true,
+      "show_in_footer": false,
+      "is_active": true,
+      "sort_order": 6,
+      "layout": "Grid"
+    },
+    {
+      "id": 7,
+      "name_en": "Azad Kashmir",
+      "name_ur": "آزاد کشمیر",
+      "slug": "kashmir",
+      "url_path": "/pakistan/kashmir",
+      "parent_id": 1,
+      "parent_name_en": "Pakistan",
+      "articles_count": 6,
+      "show_in_header": true,
+      "show_in_mobile": true,
+      "show_in_footer": false,
+      "is_active": true,
+      "sort_order": 7,
+      "layout": "Grid"
+    },
+    {
+      "id": 8,
+      "name_en": "World",
+      "name_ur": "انٹرنیشنل",
+      "slug": "world",
+      "url_path": "/world",
+      "parent_id": null,
+      "articles_count": 43,
+      "show_in_header": true,
+      "show_in_mobile": true,
+      "show_in_footer": true,
+      "is_active": true,
+      "sort_order": 8,
+      "layout": "Grid"
+    },
+    {
+      "id": 9,
+      "name_en": "Sports",
+      "name_ur": "کھیل",
+      "slug": "sports",
+      "url_path": "/sports",
+      "parent_id": null,
+      "articles_count": 33,
+      "show_in_header": true,
+      "show_in_mobile": true,
+      "show_in_footer": true,
+      "is_active": true,
+      "sort_order": 9,
+      "layout": "Grid"
+    },
+    {
+      "id": 10,
+      "name_en": "Business",
+      "name_ur": "بزنس",
+      "slug": "business",
+      "url_path": "/business",
+      "parent_id": null,
+      "articles_count": 28,
+      "show_in_header": true,
+      "show_in_mobile": true,
+      "show_in_footer": true,
+      "is_active": true,
+      "sort_order": 10,
+      "layout": "Grid"
+    },
+    {
+      "id": 11,
+      "name_en": "Entertainment",
+      "name_ur": "انٹرٹینمنٹ",
+      "slug": "entertainment",
+      "url_path": "/entertainment",
+      "parent_id": null,
+      "articles_count": 24,
+      "show_in_header": true,
+      "show_in_mobile": true,
+      "show_in_footer": true,
+      "is_active": true,
+      "sort_order": 11,
+      "layout": "Grid"
+    },
+    {
+      "id": 12,
+      "name_en": "Science & Technology",
+      "name_ur": "سائنس و ٹیکنالوجی",
+      "slug": "tech",
+      "url_path": "/tech",
+      "parent_id": null,
+      "articles_count": 19,
+      "show_in_header": true,
+      "show_in_mobile": true,
+      "show_in_footer": true,
+      "is_active": true,
+      "sort_order": 12,
+      "layout": "Grid"
+    },
+    {
+      "id": 13,
+      "name_en": "Health",
+      "name_ur": "صحت",
+      "slug": "health",
+      "url_path": "/health",
+      "parent_id": null,
+      "articles_count": 14,
+      "show_in_header": true,
+      "show_in_mobile": true,
+      "show_in_footer": true,
+      "is_active": true,
+      "sort_order": 13,
+      "layout": "Grid"
+    },
+    {
+      "id": 14,
+      "name_en": "Opinion",
+      "name_ur": "اداریہ و کالم",
+      "slug": "opinion",
+      "url_path": "/opinion",
+      "parent_id": null,
+      "articles_count": 21,
+      "show_in_header": true,
+      "show_in_mobile": true,
+      "show_in_footer": true,
+      "is_active": true,
+      "sort_order": 14,
+      "layout": "Grid"
+    },
+    {
+      "id": 15,
+      "name_en": "Fact Check",
+      "name_ur": "حقائق نامہ (فیکٹ چیک)",
+      "slug": "fact-check",
+      "url_path": "/fact-check",
+      "parent_id": null,
+      "articles_count": 7,
+      "show_in_header": true,
+      "show_in_mobile": true,
+      "show_in_footer": true,
+      "is_active": true,
+      "sort_order": 15,
+      "layout": "Grid",
+      "updated_at": "2026-11-20T17:11:15.222Z",
+      "description_ur": "",
+      "description_en": "",
+      "seo_title": "",
+      "meta_description": "",
+      "no_index": false,
+      "parent_name_en": null
+    },
+    {
+      "id": 16,
+      "name_en": "Special Reports",
+      "name_ur": "خصوصی رپورٹ",
+      "slug": "special",
+      "url_path": "/special",
+      "parent_id": null,
+      "articles_count": 8,
+      "show_in_header": false,
+      "show_in_mobile": true,
+      "show_in_footer": true,
+      "is_active": true,
+      "sort_order": 16,
+      "layout": "Grid",
+      "description_ur": "",
+      "description_en": "",
+      "seo_title": "",
+      "meta_description": "",
+      "no_index": false,
+      "parent_name_en": null,
+      "updated_at": "2026-11-20T17:11:52.257Z"
+    }
+  ],
+  "layout_config": {
+    "zones": [
+      {
+        "key": "top",
+        "label": "Top",
+        "max_blocks": 2,
+        "allowed_types": [
+          "Hero",
+          "Ticker"
+        ]
+      },
+      {
+        "key": "body",
+        "label": "Body",
+        "max_blocks": null,
+        "allowed_types": [
+          "Grid",
+          "List",
+          "Carousel",
+          "Video rail",
+          "Opinion",
+          "Widget",
+          "Ad"
+        ]
+      },
+      {
+        "key": "bottom",
+        "label": "Bottom",
+        "max_blocks": null,
+        "allowed_types": [
+          "List",
+          "Opinion",
+          "Ad",
+          "Widget"
+        ]
+      }
+    ],
+    "blocks": [
+      {
+        "id": "blk_body_1",
+        "zone": "body",
+        "title_ur": "بزنس",
+        "title_en": "Business",
+        "style": "List",
+        "fill_mode": "auto",
+        "category_slug": "business",
+        "limit": 6,
+        "order_by": "recent",
+        "featured_only": false,
+        "is_active": true
+      },
+      {
+        "id": "blk_body_2",
+        "zone": "body",
+        "title_ur": "پاکستان",
+        "title_en": "Pakistan",
+        "style": "Grid",
+        "fill_mode": "auto",
+        "category_slug": "pakistan",
+        "limit": 10,
+        "order_by": "recent",
+        "featured_only": false,
+        "is_active": true
+      },
+      {
+        "id": "blk_top_1",
+        "zone": "top",
+        "title_ur": "",
+        "title_en": "Untitled block",
+        "style": "Hero",
+        "fill_mode": "auto",
+        "category_slug": null,
+        "limit": 5,
+        "order_by": "featured",
+        "featured_only": true,
+        "is_active": true
+      },
+      {
+        "id": "blk_body_3",
+        "zone": "body",
+        "title_ur": "اہم خبریں",
+        "title_en": "Top stories",
+        "style": "Grid",
+        "fill_mode": "auto",
+        "category_slug": null,
+        "limit": 8,
+        "order_by": "recent",
+        "featured_only": false,
+        "is_active": true
+      },
+      {
+        "id": "blk_body_4",
+        "zone": "body",
+        "title_ur": "انٹرنیشنل",
+        "title_en": "World",
+        "style": "Grid",
+        "fill_mode": "auto",
+        "category_slug": "world",
+        "limit": 6,
+        "order_by": "recent",
+        "featured_only": false,
+        "is_active": true
+      },
+      {
+        "id": "blk_body_5",
+        "zone": "body",
+        "title_ur": "کھیل",
+        "title_en": "Sports",
+        "style": "Grid",
+        "fill_mode": "auto",
+        "category_slug": "sports",
+        "limit": 6,
+        "order_by": "recent",
+        "featured_only": false,
+        "is_active": true
+      },
+      {
+        "id": "blk_body_6",
+        "zone": "body",
+        "title_ur": "انٹرٹینمنٹ",
+        "title_en": "Entertainment",
+        "style": "Grid",
+        "fill_mode": "auto",
+        "category_slug": "entertainment",
+        "limit": 6,
+        "order_by": "recent",
+        "featured_only": false,
+        "is_active": true
+      },
+      {
+        "id": "blk_body_7",
+        "zone": "body",
+        "title_ur": "▶ ویڈیوز",
+        "title_en": "Videos",
+        "style": "Video rail",
+        "fill_mode": "auto",
+        "category_slug": "videos",
+        "limit": 8,
+        "order_by": "recent",
+        "featured_only": false,
+        "is_active": true
+      },
+      {
+        "id": "blk_body_8",
+        "zone": "body",
+        "title_ur": "سائنس و ٹیکنالوجی",
+        "title_en": "Science & Technology",
+        "style": "Grid",
+        "fill_mode": "auto",
+        "category_slug": "tech",
+        "limit": 6,
+        "order_by": "recent",
+        "featured_only": false,
+        "is_active": true
+      },
+      {
+        "id": "blk_body_9",
+        "zone": "body",
+        "title_ur": "مقبول خبریں",
+        "title_en": "Most read",
+        "style": "List",
+        "fill_mode": "auto",
+        "category_slug": null,
+        "limit": 10,
+        "order_by": "views",
+        "featured_only": false,
+        "is_active": true
+      },
+      {
+        "id": "blk_body_10",
+        "zone": "body",
+        "title_ur": "صحت",
+        "title_en": "Health",
+        "style": "Grid",
+        "fill_mode": "auto",
+        "category_slug": "health",
+        "limit": 6,
+        "order_by": "recent",
+        "featured_only": false,
+        "is_active": true
+      },
+      {
+        "id": "blk_body_11",
+        "zone": "body",
+        "title_ur": "جرائم",
+        "title_en": "Crime",
+        "style": "Grid",
+        "fill_mode": "auto",
+        "category_slug": "crime",
+        "limit": 6,
+        "order_by": "recent",
+        "featured_only": false,
+        "is_active": true
+      },
+      {
+        "id": "blk_body_12",
+        "zone": "body",
+        "title_ur": "لائف اسٹائل",
+        "title_en": "Lifestyle",
+        "style": "Grid",
+        "fill_mode": "auto",
+        "category_slug": "lifestyle",
+        "limit": 6,
+        "order_by": "recent",
+        "featured_only": false,
+        "is_active": true
+      },
+      {
+        "id": "blk_body_13",
+        "zone": "body",
+        "title_ur": "دلچسپ و عجیب",
+        "title_en": "Weird News",
+        "style": "Grid",
+        "fill_mode": "auto",
+        "category_slug": "weird",
+        "limit": 6,
+        "order_by": "recent",
+        "featured_only": false,
+        "is_active": true
+      },
+      {
+        "id": "blk_bottom_1",
+        "zone": "bottom",
+        "title_ur": "رائے و کالم",
+        "title_en": "Opinion",
+        "style": "Opinion",
+        "fill_mode": "auto",
+        "category_slug": "opinion",
+        "limit": 4,
+        "order_by": "recent",
+        "featured_only": false,
+        "is_active": true
+      }
+    ]
+  },
+  "media_assets": [
+    {
+      "id": 1,
+      "filename": "pm_shehbaz_address_un_general_assembly.webp",
+      "url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=800&auto=format&fit=crop",
+      "size": "142 KB",
+      "size_bytes": 145408,
+      "alt_text": "وزیراعظم شہباز شریف کا اقوام متحدہ کی جنرل اسمبلی کے اجلاس سے خصوصی خطاب",
+      "caption": "وزیراعظم کا عالمی فورم پر موسمیاتی انصاف اور معاشی خود انحصاری پر زور",
+      "credit": "پی آئی ڈی / شفقات راؤ",
+      "focal_point": {
+        "x": 65,
+        "y": 40
+      },
+      "created_at": "2026-11-20T02:26:50.226Z",
+      "updated_at": "2026-11-20T04:28:07.872Z"
+    },
+    {
+      "id": 2,
+      "filename": "pakistan_stock_exchange_kse100_rally.webp",
+      "url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&auto=format&fit=crop",
+      "size": "88 KB",
+      "size_bytes": 90112,
+      "alt_text": "پاکستان اسٹاک ایکسچینج میں ریکارڈ تیزی، 100 انڈیکس میں تاریخی اضافہ",
+      "caption": "پی ایس ایکس ٹریڈنگ فلور پر بروکرز اور سرمایہ کاروں کا غیر معمولی جوش و خروش",
+      "credit": "رائٹرز بزنس سروس",
+      "focal_point": {
+        "x": 50,
+        "y": 50
+      },
+      "created_at": "2026-11-19T22:26:50.226Z"
+    },
+    {
+      "id": 3,
+      "filename": "cpec_western_route_inauguration_highway.jpg",
+      "url": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800&auto=format&fit=crop",
+      "size": "210 KB",
+      "size_bytes": 215040,
+      "alt_text": "",
+      "caption": "",
+      "credit": "",
+      "focal_point": {
+        "x": 50,
+        "y": 50
+      },
+      "created_at": "2026-11-19T14:26:50.226Z"
+    },
+    {
+      "id": 4,
+      "filename": "gaddafi_stadium_champions_trophy_preparations.webp",
+      "url": "https://images.unsplash.com/photo-1531415074868-036b107e775a?w=800&auto=format&fit=crop",
+      "size": "165 KB",
+      "size_bytes": 168960,
+      "alt_text": "قذافی اسٹیڈیم لاہور میں آئی سی سی چیمپئنز ٹرافی 2025 کے لیے فلڈ لائٹس اور پویلین کی اپ گریڈیشن",
+      "caption": "لاہور میں جاری بین الاقوامی کرکٹ سہولیات کے تزئین و آرائش کے کام کا فضائی منظر",
+      "credit": "پی سی بی میڈیا ونگ",
+      "focal_point": {
+        "x": 52,
+        "y": 40
+      },
+      "created_at": "2026-11-19T04:26:50.226Z"
+    },
+    {
+      "id": 5,
+      "filename": "karachi_port_terminal_container_export.webp",
+      "url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=800&auto=format&fit=crop",
+      "size": "128 KB",
+      "size_bytes": 131072,
+      "alt_text": "",
+      "caption": "",
+      "credit": "",
+      "focal_point": {
+        "x": 50,
+        "y": 50
+      },
+      "created_at": "2026-11-18T04:26:50.226Z"
+    },
+    {
+      "id": 6,
+      "filename": "islamabad_supreme_court_bench_hearing.jpg",
+      "url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800&auto=format&fit=crop",
+      "size": "195 KB",
+      "size_bytes": 199680,
+      "alt_text": "سپریم کورٹ آف پاکستان، شاہراہ دستور اسلام آباد کا سامنے کا منظر",
+      "caption": "آئینی بینچ کے اہم فیصلوں کے موقع پر عدالت عظمیٰ کا مرکزی ہال",
+      "credit": "اے پی پی",
+      "focal_point": {
+        "x": 50,
+        "y": 30
+      },
+      "created_at": "2026-11-17T16:26:50.226Z"
+    },
+    {
+      "id": 7,
+      "filename": "digital_pakistan_software_technology_park.webp",
+      "url": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&auto=format&fit=crop",
+      "size": "115 KB",
+      "size_bytes": 117760,
+      "alt_text": "پاکستانی نوجوان سافٹ ویئر انجینئرز اور آئی ٹی ماہرین جدید اے آئی پروجیکٹ پر کام کرتے ہوئے",
+      "caption": "قومی آئی ٹی برآمدات میں 35 فیصد سالانہ اضافے کے اہداف پر پیش رفت",
+      "credit": "آئی ٹی منسٹری پاکستان",
+      "focal_point": {
+        "x": 45,
+        "y": 45
+      },
+      "created_at": "2026-11-17T04:26:50.226Z"
+    },
+    {
+      "id": 8,
+      "filename": "lahore_smog_environmental_green_initiative.jpg",
+      "url": "https://images.unsplash.com/photo-1534088568595-a066f410bcda?w=800&auto=format&fit=crop",
+      "size": "240 KB",
+      "size_bytes": 245760,
+      "alt_text": "",
+      "caption": "",
+      "credit": "",
+      "focal_point": {
+        "x": 50,
+        "y": 50
+      },
+      "created_at": "2026-11-16T04:26:50.226Z"
+    },
+    {
+      "id": 9,
+      "filename": "babur_azam_shaheen_afridi_training_session.webp",
+      "url": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=800&auto=format&fit=crop",
+      "size": "178 KB",
+      "size_bytes": 182272,
+      "alt_text": "بابر اعظم اور شاہین شاہ آفریدی نیٹ پریکٹس کے دوران گیند بازی کی مشق کرتے ہوئے",
+      "caption": "آسٹریلیا اور زمبابوے کے خلاف وائٹ بال سیریز کے لیے قومی کیمپ",
+      "credit": "گیٹی اسپورٹس",
+      "focal_point": {
+        "x": 50,
+        "y": 40
+      },
+      "created_at": "2026-11-15T04:26:50.226Z"
+    },
+    {
+      "id": 10,
+      "filename": "gold_bullion_foreign_exchange_reserves.webp",
+      "url": "https://images.unsplash.com/photo-1610375461246-83df859d849d?w=800&auto=format&fit=crop",
+      "size": "92 KB",
+      "size_bytes": 94208,
+      "alt_text": "اسٹیٹ بینک آف پاکستان کے غیر ملکی زرمبادلہ اور سونے کے ذخائر",
+      "caption": "مرکزی بینک کے زرمبادلہ کے ذخائر میں مسلسل استحکام کی رپورٹ",
+      "credit": "بلومبرگ نیوز",
+      "focal_point": {
+        "x": 50,
+        "y": 50
+      },
+      "created_at": "2026-11-14T04:26:50.226Z"
+    }
+  ],
+  "epaper_issues_v2": [
+    {
+      "id": 1795150672983,
+      "edition_date": "2026-11-20",
+      "paper": "ur",
+      "city": "Islamabad",
+      "title": "اسلام آباد",
+      "status": "ready",
+      "is_live": true,
+      "file_size": "34.6 MB",
+      "pdf_url": "https://daily-afadiat.sgp1.digitaloceanspaces.com/epaper/sample.pdf",
+      "published_at": "2026-11-20T04:57:52.983Z",
+      "pages": [
+        {
+          "page_number": 1,
+          "title": "Page 1",
+          "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=1200&auto=format&fit=crop",
+          "thumbnail_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop",
+          "regions": []
+        },
+        {
+          "page_number": 2,
+          "title": "Page 2",
+          "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&auto=format&fit=crop",
+          "thumbnail_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&auto=format&fit=crop",
+          "regions": []
+        },
+        {
+          "page_number": 3,
+          "title": "Page 3",
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&auto=format&fit=crop",
+          "thumbnail_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=400&auto=format&fit=crop",
+          "regions": []
+        },
+        {
+          "page_number": 4,
+          "title": "Page 4",
+          "image_url": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&auto=format&fit=crop",
+          "thumbnail_url": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=400&auto=format&fit=crop",
+          "regions": []
+        },
+        {
+          "page_number": 5,
+          "title": "Page 5",
+          "image_url": "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?w=1200&auto=format&fit=crop",
+          "thumbnail_url": "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?w=400&auto=format&fit=crop",
+          "regions": []
+        },
+        {
+          "page_number": 6,
+          "title": "Page 6",
+          "image_url": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=1200&auto=format&fit=crop",
+          "thumbnail_url": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=400&auto=format&fit=crop",
+          "regions": []
+        },
+        {
+          "page_number": 7,
+          "title": "Page 7",
+          "image_url": "https://images.unsplash.com/photo-1477959858617-67f30bc75b82?w=1200&auto=format&fit=crop",
+          "thumbnail_url": "https://images.unsplash.com/photo-1477959858617-67f30bc75b82?w=400&auto=format&fit=crop",
+          "regions": []
+        },
+        {
+          "page_number": 8,
+          "title": "Page 8",
+          "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=1200&auto=format&fit=crop",
+          "thumbnail_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop",
+          "regions": []
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "edition_date": "2026-11-20",
+      "paper": "ur",
+      "city": "Islamabad",
+      "title": "Islamabad",
+      "status": "ready",
+      "is_live": true,
+      "file_size": "34.6 MB",
+      "pdf_url": "https://daily-afadiat.sgp1.digitaloceanspaces.com/epaper/2026/11/islamabad/2026-11-20.pdf",
+      "published_at": "2026-11-20T09:30:00.000Z",
+      "pages": [
+        {
+          "page_number": 1,
+          "title": "صفحۂ اول (سرورق)",
+          "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=1200&auto=format&fit=crop",
+          "thumbnail_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop",
+          "regions": [
+            {
+              "id": "reg_1",
+              "headline": "ڈیلی افادیت ڈیجیٹل اور پرنٹ ایڈیشن کا شاندار آغاز",
+              "body": "جدید ترین پرنٹنگ ٹیکنالوجی اور ڈیجیٹل سروسز کے ساتھ ملکی صحافت میں ایک نئے دور کا آغاز۔",
+              "article_id": "1",
+              "coordinates": {
+                "x": 20,
+                "y": 20,
+                "width": 35,
+                "height": 25
+              }
+            }
+          ]
+        },
+        {
+          "page_number": 2,
+          "title": "صفحہ 2 (قومی خبریں)",
+          "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&auto=format&fit=crop",
+          "thumbnail_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400&auto=format&fit=crop",
+          "regions": []
+        },
+        {
+          "page_number": 3,
+          "title": "صفحہ 3 (بزنس و معیشت)",
+          "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&auto=format&fit=crop",
+          "thumbnail_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=400&auto=format&fit=crop",
+          "regions": []
+        },
+        {
+          "page_number": 4,
+          "title": "صفحہ 4 (اداریہ و کالم)",
+          "image_url": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1200&auto=format&fit=crop",
+          "thumbnail_url": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=400&auto=format&fit=crop",
+          "regions": []
+        },
+        {
+          "page_number": 5,
+          "title": "صفحہ 5 (بین الاقوامی خبریں)",
+          "image_url": "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?w=1200&auto=format&fit=crop",
+          "thumbnail_url": "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?w=400&auto=format&fit=crop",
+          "regions": []
+        },
+        {
+          "page_number": 6,
+          "title": "صفحہ 6 (کھیلوں کی دنیا)",
+          "image_url": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=1200&auto=format&fit=crop",
+          "thumbnail_url": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=400&auto=format&fit=crop",
+          "regions": []
+        },
+        {
+          "page_number": 7,
+          "title": "صفحہ 7 (شہر نامہ / ریجنل)",
+          "image_url": "https://images.unsplash.com/photo-1477959858617-67f30bc75b82?w=1200&auto=format&fit=crop",
+          "thumbnail_url": "https://images.unsplash.com/photo-1477959858617-67f30bc75b82?w=400&auto=format&fit=crop",
+          "regions": []
+        },
+        {
+          "page_number": 8,
+          "title": "صفحہ 8 (بیک پیج / اہم پیش رفت)",
+          "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=1200&auto=format&fit=crop",
+          "thumbnail_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=400&auto=format&fit=crop",
+          "regions": []
+        }
+      ]
+    }
+  ],
+  "widgets": {
+    "prayer": {
+      "showOnWebsite": true,
+      "asrShown": "both",
+      "hijriAdjustment": 0,
+      "calculationMethod": "University of Islamic Sciences, Karachi (Fajr & Isha 18°)",
+      "overrides": {
+        "Karachi_2026-11-20": {
+          "fajr": "05:32",
+          "sunrise": "06:51",
+          "dhuhr": "12:18",
+          "asrShafi": "15:32",
+          "asrHanafi": "16:15",
+          "maghrib": "17:45",
+          "isha": "19:04",
+          "hijri": "Jumada II 11, 1448 AH",
+          "locked": true,
+          "updatedAt": "20 Nov 2026"
+        }
+      }
+    },
+    "currency": {
+      "showOnWebsite": true,
+      "mode": "auto",
+      "rates": [
+        {
+          "code": "AED",
+          "name_ur": "اماراتی درہم",
+          "name_en": "UAE Dirham",
+          "buy": "75.40",
+          "sell": "75.95",
+          "source": "Interbank · Auto · 20 Nov 2026, 10:10"
+        },
+        {
+          "code": "CNY",
+          "name_ur": "چینی یوان",
+          "name_en": "Chinese Yuan",
+          "buy": "38.20",
+          "sell": "38.65",
+          "source": "Interbank · Auto · 20 Nov 2026, 10:10"
+        },
+        {
+          "code": "EUR",
+          "name_ur": "یورو",
+          "name_en": "Euro",
+          "buy": "308.80",
+          "sell": "312.40",
+          "source": "Interbank · Auto · 20 Nov 2026, 10:10"
+        },
+        {
+          "code": "GBP",
+          "name_ur": "برطانوی پاؤنڈ",
+          "name_en": "British Pound",
+          "buy": "373.20",
+          "sell": "376.50",
+          "source": "Interbank · Auto · 20 Nov 2026, 10:10"
+        },
+        {
+          "code": "SAR",
+          "name_ur": "سعودی ریال",
+          "name_en": "Saudi Riyal",
+          "buy": "73.85",
+          "sell": "74.50",
+          "source": "Interbank · Auto · 20 Nov 2026, 10:10"
+        },
+        {
+          "code": "USD",
+          "name_ur": "امریکی ڈالر",
+          "name_en": "US Dollar",
+          "buy": "280.50",
+          "sell": "279.00",
+          "source": "Interbank · Auto · 20 Nov 2026, 10:10"
+        }
+      ],
+      "updatedAt": "Auto · 20 Nov 2026, 10:10"
+    },
+    "gold": {
+      "showOnWebsite": true,
+      "mode": "manual",
+      "premium": 0,
+      "gold24k": 422095,
+      "gold22k": 386920,
+      "updatedAt": "Manual · 20 Nov 2026, 10:09"
+    },
+    "weather": {
+      "showOnWebsite": true,
+      "mode": "manual",
+      "cities": [
+        {
+          "city": "Faisalabad",
+          "name_ur": "فیصل آباد",
+          "temp": 24,
+          "feels": 24,
+          "humidity": 45,
+          "wind": 8,
+          "condition": "Clear — صاف",
+          "icon": "☀️",
+          "source": "Manual · 20 Nov 2026, 09:59"
+        },
+        {
+          "city": "Hyderabad",
+          "name_ur": "حیدرآباد",
+          "temp": 29,
+          "feels": 30,
+          "humidity": 58,
+          "wind": 12,
+          "condition": "Mostly clear — جزوی مطلع صاف",
+          "icon": "🌤️",
+          "source": "Manual · 20 Nov 2026, 09:59"
+        },
+        {
+          "city": "Islamabad",
+          "name_ur": "اسلام آباد",
+          "temp": 21,
+          "feels": 20,
+          "humidity": 50,
+          "wind": 7,
+          "condition": "Clear — صاف",
+          "icon": "☀️",
+          "source": "Manual · 20 Nov 2026, 09:59"
+        },
+        {
+          "city": "Karachi",
+          "name_ur": "کراچی",
+          "temp": 28,
+          "feels": 29,
+          "humidity": 62,
+          "wind": 14,
+          "condition": "Clear — صاف",
+          "icon": "☀️",
+          "source": "Manual · 20 Nov 2026, 09:59"
+        },
+        {
+          "city": "Lahore",
+          "name_ur": "لاہور",
+          "temp": 23,
+          "feels": 23,
+          "humidity": 55,
+          "wind": 6,
+          "condition": "Haze — دھند/گرد",
+          "icon": "🌫️",
+          "source": "Manual · 20 Nov 2026, 09:59"
+        },
+        {
+          "city": "Multan",
+          "name_ur": "ملتان",
+          "temp": 26,
+          "feels": 26,
+          "humidity": 42,
+          "wind": 9,
+          "condition": "Clear — صاف",
+          "icon": "☀️",
+          "source": "Manual · 20 Nov 2026, 09:59"
+        },
+        {
+          "city": "Peshawar",
+          "name_ur": "پشاور",
+          "temp": 22,
+          "feels": 21,
+          "humidity": 48,
+          "wind": 8,
+          "condition": "Clear — صاف",
+          "icon": "☀️",
+          "source": "Manual · 20 Nov 2026, 09:59"
+        },
+        {
+          "city": "Quetta",
+          "name_ur": "کوئٹہ",
+          "temp": 16,
+          "feels": 15,
+          "humidity": 32,
+          "wind": 11,
+          "condition": "Sunny & dry — سرد و خشک",
+          "icon": "☀️",
+          "source": "Manual · 20 Nov 2026, 09:59"
+        },
+        {
+          "city": "Rawalpindi",
+          "name_ur": "راولپنڈی",
+          "temp": 21,
+          "feels": 20,
+          "humidity": 52,
+          "wind": 7,
+          "condition": "Clear — صاف",
+          "icon": "☀️",
+          "source": "Manual · 20 Nov 2026, 09:59"
+        }
+      ],
+      "updatedAt": "Manual · 20 Nov 2026, 09:59"
+    }
+  },
+  "newsroom_users": [
+    {
+      "email": "editor@dailyinsaf.pk",
+      "starting_password": "NewSecurePass123",
+      "full_name_ur": "ارشد ندیم",
+      "full_name_en": "Arshad Nadeem",
+      "byline_name": "",
+      "designation_ur": "",
+      "designation_en": "",
+      "bio_ur": "",
+      "bio_en": "",
+      "roles": [
+        "Editor"
+      ],
+      "desk_scope": [],
+      "is_public_author": true,
+      "id": "usr_1795151253113",
+      "status": "Active",
+      "last_active": "Password reset · signed out",
+      "created_at": "2026-11-20T05:07:33.113Z",
+      "updated_at": "2026-11-20T05:08:18.002Z"
+    },
+    {
+      "id": "usr_admin",
+      "email": "admin@dailyinsaf.pk",
+      "starting_password": "••••••••••••",
+      "full_name_ur": "ایڈمن",
+      "full_name_en": "System Administrator",
+      "byline_name": "ادارتی بورڈ",
+      "designation_ur": "چیف سسٹم ایڈمنسٹریٹر",
+      "designation_en": "Chief System Administrator",
+      "bio_ur": "ڈیلی افادات کا مرکزی ادارتی اور تکنیکی نظام۔ تمام خبروں، ایڈیشنز اور ڈیسک کی نگرانی۔",
+      "bio_en": "Central editorial and technical administration. Oversees all newsroom operations, desk workflows and editions.",
+      "roles": [
+        "Super Admin"
+      ],
+      "desk_scope": [],
+      "is_public_author": false,
+      "status": "Active",
+      "last_active": "20 Nov 2026, 21:48",
+      "created_at": "2026-08-01T10:00:00Z"
+    },
+    {
+      "id": "usr_reporter_1",
+      "email": "reporter@dailyinsaf.pk",
+      "starting_password": "••••••••••••",
+      "full_name_ur": "ٹیسٹ رپورٹر",
+      "full_name_en": "Staff Reporter",
+      "byline_name": "اسٹاف رپورٹر",
+      "designation_ur": "سینئر رپورٹر",
+      "designation_en": "Senior Reporter",
+      "bio_ur": "قومی اور بین الاقوامی امور، پارلیمانی کارروائی اور قانونی رپورٹنگ میں دس سالہ تجربہ۔",
+      "bio_en": "Over a decade of experience covering national, parliamentary and international affairs.",
+      "roles": [
+        "Reporter"
+      ],
+      "desk_scope": [
+        "Pakistan",
+        "World"
+      ],
+      "is_public_author": true,
+      "status": "Active",
+      "last_active": "13 Aug 2026",
+      "created_at": "2026-08-10T12:00:00Z"
+    },
+    {
+      "id": "usr_columnist_1",
+      "email": "bilal@dailyinsaf.pk",
+      "starting_password": "••••••••••••",
+      "full_name_ur": "بلال حسین",
+      "full_name_en": "Bilal Hussain",
+      "byline_name": "بلال حسین",
+      "designation_ur": "معروف کالم نگار",
+      "designation_en": "Senior Columnist",
+      "bio_ur": "سیاسی تجزیہ کار اور مصنف۔ ملکی معیشت، خارجہ پالیسی اور سماجی رجحانات پر باقاعدہ کالم نگاری۔",
+      "bio_en": "Political analyst and author. Regular columns on national economics, foreign policy, and social trends.",
+      "roles": [
+        "Columnist"
+      ],
+      "desk_scope": [
+        "Opinion",
+        "Blogs"
+      ],
+      "is_public_author": true,
+      "status": "Active",
+      "last_active": "31 Aug 2026",
+      "created_at": "2026-08-15T09:00:00Z"
+    },
+    {
+      "id": "usr_subeditor_1",
+      "email": "ayesha@dailyinsaf.pk",
+      "starting_password": "••••••••••••",
+      "full_name_ur": "عائشہ نور",
+      "full_name_en": "Ayesha Noor",
+      "byline_name": "عائشہ نور",
+      "designation_ur": "سب ایڈیٹر",
+      "designation_en": "Sub-Editor",
+      "bio_ur": "ڈیجیٹل نیوز ڈیسک، کاپی ایڈیٹنگ اور اردو مضامین کی لسانی تدوین۔",
+      "bio_en": "Digital news desk curation, copy-editing and Urdu linguistic proofing.",
+      "roles": [
+        "Sub-Editor"
+      ],
+      "desk_scope": [],
+      "is_public_author": true,
+      "status": "Active",
+      "last_active": "never signed in",
+      "created_at": "2026-09-01T14:00:00Z"
+    },
+    {
+      "id": "usr_columnist_2",
+      "email": "zain@yopmail.com",
+      "starting_password": "••••••••••••",
+      "full_name_ur": "زین عباس",
+      "full_name_en": "Zain Abbas",
+      "byline_name": "زین عباس",
+      "designation_ur": "کالم نگار و فیچر رائٹر",
+      "designation_en": "Columnist & Feature Writer",
+      "bio_ur": "ماحولیات، انسانی حقوق اور ماحولیاتی تبدیلی پر خصوصی مضامین۔",
+      "bio_en": "Special features on ecology, human rights, and climate justice.",
+      "roles": [
+        "Columnist"
+      ],
+      "desk_scope": [
+        "Opinion",
+        "Special Reports"
+      ],
+      "is_public_author": true,
+      "status": "Active",
+      "last_active": "never signed in",
+      "created_at": "2026-09-05T11:00:00Z"
+    },
+    {
+      "id": "usr_reporter_2",
+      "email": "fsdfsa@yopmail.com",
+      "starting_password": "••••••••••••",
+      "full_name_ur": "22wr242",
+      "full_name_en": "Desk Reporter",
+      "byline_name": "Desk Reporter",
+      "designation_ur": "رپورٹر",
+      "designation_en": "Reporter",
+      "bio_ur": "",
+      "bio_en": "",
+      "roles": [
+        "Reporter"
+      ],
+      "desk_scope": [
+        "Sports"
+      ],
+      "is_public_author": false,
+      "status": "Disabled",
+      "last_active": "never signed in",
+      "created_at": "2026-09-12T16:00:00Z"
+    }
+  ],
+  "newsroom_roles": [
+    {
+      "id": "role_super_admin",
+      "key": "super_admin",
+      "nameEn": "Super Admin",
+      "nameUr": "سپر ایڈمن",
+      "description": "Full system control — all permissions granted automatically.",
+      "isSystem": true,
+      "permissions": [
+        "article.view",
+        "article.create",
+        "article.edit.own",
+        "article.edit.any",
+        "article.delete",
+        "article.restore",
+        "article.publish",
+        "article.unpublish",
+        "article.publish.breaking",
+        "article.schedule",
+        "workflow.manage",
+        "breaking.manage",
+        "epaper.view",
+        "epaper.manage",
+        "epaper.clip",
+        "category.manage",
+        "page.manage",
+        "media.view",
+        "media.upload",
+        "media.delete",
+        "media.framing",
+        "video.manage",
+        "layout.manage",
+        "ads.view",
+        "ads.manage",
+        "widgets.manage",
+        "comment.view",
+        "comment.moderate",
+        "inquiry.view",
+        "inquiry.reply",
+        "poll.manage",
+        "newsletter.manage",
+        "user.view",
+        "user.manage",
+        "user.reset_password",
+        "role.view",
+        "role.manage",
+        "notification.view",
+        "notification.manage",
+        "settings.manage",
+        "seo.manage"
+      ]
+    },
+    {
+      "id": "role_editor_in_chief",
+      "key": "editor_in_chief",
+      "nameEn": "Editor-in-Chief",
+      "nameUr": "چیف ایڈیٹر",
+      "description": "Top editorial authority across all desks, staff, settings and publishing.",
+      "isSystem": true,
+      "permissions": [
+        "article.view",
+        "article.create",
+        "article.edit.own",
+        "article.edit.any",
+        "article.delete",
+        "article.restore",
+        "article.publish",
+        "article.unpublish",
+        "article.publish.breaking",
+        "article.schedule",
+        "workflow.manage",
+        "breaking.manage",
+        "epaper.view",
+        "epaper.manage",
+        "epaper.clip",
+        "category.manage",
+        "page.manage",
+        "media.view",
+        "media.upload",
+        "media.delete",
+        "media.framing",
+        "video.manage",
+        "layout.manage",
+        "ads.view",
+        "ads.manage",
+        "widgets.manage",
+        "comment.view",
+        "comment.moderate",
+        "inquiry.view",
+        "inquiry.reply",
+        "poll.manage",
+        "newsletter.manage",
+        "user.view",
+        "user.manage",
+        "user.reset_password",
+        "role.view",
+        "notification.view",
+        "notification.manage",
+        "settings.manage",
+        "seo.manage"
+      ]
+    },
+    {
+      "id": "role_editor",
+      "key": "editor",
+      "nameEn": "Editor",
+      "nameUr": "ایڈیٹر",
+      "description": "Manages desk stories, publishing, breaking ticker, e-paper and moderation.",
+      "isSystem": true,
+      "permissions": [
+        "article.view",
+        "article.create",
+        "article.edit.own",
+        "article.edit.any",
+        "article.delete",
+        "article.restore",
+        "article.publish",
+        "article.unpublish",
+        "article.publish.breaking",
+        "article.schedule",
+        "workflow.manage",
+        "breaking.manage",
+        "layout.manage",
+        "category.manage",
+        "media.view",
+        "media.upload",
+        "media.framing",
+        "epaper.view",
+        "epaper.manage",
+        "epaper.clip",
+        "comment.view",
+        "comment.moderate",
+        "inquiry.view",
+        "inquiry.reply",
+        "poll.manage",
+        "ads.view",
+        "video.manage",
+        "page.manage",
+        "seo.manage"
+      ]
+    },
+    {
+      "id": "role_sub_editor",
+      "key": "sub_editor",
+      "nameEn": "Sub-Editor",
+      "nameUr": "سب ایڈیٹر",
+      "description": "Copy-edits, schedules stories, frames media and moderates reader comments.",
+      "isSystem": true,
+      "permissions": [
+        "article.view",
+        "article.create",
+        "article.edit.own",
+        "article.edit.any",
+        "article.schedule",
+        "workflow.manage",
+        "breaking.manage",
+        "media.view",
+        "media.upload",
+        "media.framing",
+        "comment.view",
+        "comment.moderate",
+        "epaper.view"
+      ]
+    },
+    {
+      "id": "role_reporter",
+      "key": "reporter",
+      "nameEn": "Reporter",
+      "nameUr": "رپورٹر",
+      "description": "Files drafts, uploads field media and submits stories for desk review.",
+      "isSystem": true,
+      "permissions": [
+        "article.view",
+        "article.create",
+        "article.edit.own",
+        "media.view",
+        "media.upload",
+        "epaper.view"
+      ]
+    },
+    {
+      "id": "role_columnist",
+      "key": "columnist",
+      "nameEn": "Columnist",
+      "nameUr": "کالم نگار",
+      "description": "Writes opinion columns, manages own drafts and views reader comments.",
+      "isSystem": true,
+      "permissions": [
+        "article.view",
+        "article.create",
+        "article.edit.own",
+        "media.view",
+        "media.upload",
+        "comment.view",
+        "epaper.view"
+      ]
+    }
+  ]
+}

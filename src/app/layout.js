@@ -1,0 +1,57 @@
+import "./globals.css";
+import { cookies } from "next/headers";
+import NextTopLoader from "nextjs-toploader";
+import { SiteLanguageProvider } from "@/context/SiteLanguageContext";
+
+export const metadata = {
+  title: {
+    default: "ڈیلی افادیت — سچ کے ساتھ، ہر خبر",
+    template: "%s — ڈیلی افادیت",
+  },
+  description: "ڈیلی افادیت نیوز پورٹل: پاکستان، دنیا، کھیل اور بزنس کی تازہ ترین اور مصدقہ خبریں | Daily Afadiat News",
+  icons: {
+    icon: [
+      { url: "/icon-192.png", sizes: "192x192", type: "image/png" },
+      { url: "/favicon.ico", sizes: "48x48", type: "image/x-icon" },
+    ],
+    shortcut: "/favicon.ico",
+    apple: "/icon-192.png",
+  },
+};
+
+export default function RootLayout({ children }) {
+  const cookieStore = cookies();
+  const initialLang = cookieStore.get("site_lang")?.value === "en" ? "en" : "ur";
+  const initialDir = initialLang === "en" ? "ltr" : "rtl";
+
+  return (
+    <html lang={initialLang} dir={initialDir} translate="no" className="notranslate">
+      <head>
+        <meta name="google" content="notranslate" />
+        <link
+          rel="alternate"
+          type="application/rss+xml"
+          title="ڈیلی افادیت RSS Feed"
+          href="/rss.xml"
+        />
+      </head>
+      <body className="antialiased">
+        <NextTopLoader
+          color="#16a34a"
+          initialPosition={0.08}
+          crawlSpeed={200}
+          height={3}
+          crawl={true}
+          showSpinner={false}
+          easing="ease"
+          speed={1000}
+        />
+        <SiteLanguageProvider initialLang={initialLang}>
+          <div className="min-h-screen flex flex-col">
+            {children}
+          </div>
+        </SiteLanguageProvider>
+      </body>
+    </html>
+  );
+}
