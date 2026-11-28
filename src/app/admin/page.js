@@ -234,6 +234,8 @@ export default function AdminDashboard() {
                 <ul className="divide-y divide-[#e5e2da]">
                   {recentActivity.map((art) => {
                     const badge = STATUS_BADGES[art.status] || STATUS_BADGES.published;
+                    const headline = getHeadline(art);
+                    const isUrduHeadline = /[\u0600-\u06FF]/.test(String(headline || ""));
                     return (
                       <li key={art.id}>
                         <Link
@@ -247,9 +249,11 @@ export default function AdminDashboard() {
                           </span>
                           <span
                             dir="auto"
-                            className="min-w-0 flex-1 truncate text-sm font-medium text-[#18221b] hover:text-[#184e2d]"
+                            className={`min-w-0 flex-1 truncate font-medium text-[#18221b] hover:text-[#184e2d] ${
+                              isUrduHeadline ? "text-[15px] leading-[1.9] py-0.5" : "text-sm"
+                            }`}
                           >
-                            {getHeadline(art)}
+                            {headline}
                           </span>
                           <span className="hidden sm:block shrink-0 text-xs text-[#5c635b]">
                             {getCategoryName(art)}
@@ -282,23 +286,29 @@ export default function AdminDashboard() {
                   </div>
                 ) : (
                   <ol className="divide-y divide-[#e5e2da]">
-                    {topToday.map((item, idx) => (
-                      <li key={item.id} className="flex items-center gap-3 px-4 py-2.5">
-                        <span className="w-5 text-sm font-bold text-gray-400 tabular-nums shrink-0">
-                          {idx + 1}
-                        </span>
-                        <Link
-                          href={`/admin/articles/${item.id}`}
-                          dir="auto"
-                          className="min-w-0 flex-1 truncate text-sm text-[#18221b] hover:text-[#184e2d] transition"
-                        >
-                          {getHeadline(item)}
-                        </Link>
-                        <span className="text-xs font-semibold text-[#5c635b] tabular-nums shrink-0">
-                          {formatNumber(item.views_count)}
-                        </span>
-                      </li>
-                    ))}
+                    {topToday.map((item, idx) => {
+                      const headline = getHeadline(item);
+                      const isUrduHeadline = /[\u0600-\u06FF]/.test(String(headline || ""));
+                      return (
+                        <li key={item.id} className="flex items-center gap-3 px-4 py-2.5">
+                          <span className="w-5 text-sm font-bold text-gray-400 tabular-nums shrink-0">
+                            {idx + 1}
+                          </span>
+                          <Link
+                            href={`/admin/articles/${item.id}`}
+                            dir="auto"
+                            className={`min-w-0 flex-1 truncate text-[#18221b] hover:text-[#184e2d] transition ${
+                              isUrduHeadline ? "text-[15px] leading-[1.9] py-0.5" : "text-sm"
+                            }`}
+                          >
+                            {headline}
+                          </Link>
+                          <span className="text-xs font-semibold text-[#5c635b] tabular-nums shrink-0">
+                            {formatNumber(item.views_count)}
+                          </span>
+                        </li>
+                      );
+                    })}
                   </ol>
                 )}
               </section>
