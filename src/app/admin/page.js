@@ -249,8 +249,8 @@ export default function AdminDashboard() {
                           </span>
                           <span
                             dir="auto"
-                            className={`min-w-0 flex-1 truncate font-medium text-[#18221b] hover:text-[#184e2d] ${
-                              isUrduHeadline ? "text-[15px] leading-[1.9] py-0.5" : "text-sm"
+                            className={`min-w-0 flex-1 truncate font-medium text-[#18221b] hover:text-[#184e2d] text-[13px] ${
+                              isUrduHeadline ? "leading-[1.8] py-0.5" : ""
                             }`}
                           >
                             {headline}
@@ -297,8 +297,8 @@ export default function AdminDashboard() {
                           <Link
                             href={`/admin/articles/${item.id}`}
                             dir="auto"
-                            className={`min-w-0 flex-1 truncate text-[#18221b] hover:text-[#184e2d] transition ${
-                              isUrduHeadline ? "text-[15px] leading-[1.9] py-0.5" : "text-sm"
+                            className={`min-w-0 flex-1 truncate text-[#18221b] hover:text-[#184e2d] transition text-[13px] ${
+                              isUrduHeadline ? "leading-[1.8] py-0.5" : ""
                             }`}
                           >
                             {headline}
